@@ -1,0 +1,156 @@
+#home{
+    background-color: #e02525;
+}
+.navbar-nav{
+    margin-left: 55%;
+}
+.nav-item{
+    padding-left: 6%;
+    font-weight: bold;
+}
+.nav-link{
+    color: white;
+    font-size: 18px;
+}
+.btn{
+    margin-right: 6%;
+}
+.logo-img{
+    margin-left: 67%;
+}
+.main-heading{
+    color: white;
+    font-weight: 900;
+    font-size: 85px;
+    position: relative; 
+    top: 20%;
+    margin-left: 17%;
+}
+.price-box{
+    width: 600px;
+    height: 100px;
+    background-color: #e9bf29;
+    position:relative;
+    margin-top: -13%;
+    margin-left: 8%;
+}
+.ingredient{
+    display: flex;
+    margin-left: 1%;
+    position: absolute;
+    left: -5%;
+    top: 30%;
+}
+.ing{
+    margin-left: 20%;
+    color: white;
+    font-weight: bold;
+    font-size: 23px;
+}
+.ing-heading{
+    position: relative;
+    top: 15%;
+    left: 63%;
+    font-weight: bold;
+    font-size: 55px;
+    color: white;
+}
+.f-box{
+    margin-top: 6%;
+    position: relative;
+    left: 6%;
+    
+}
+.s-box{
+    margin-top: 6%;
+    position: relative;
+    left: 10%;
+}
+#delivery{
+    background-color: #FAF0D7;
+}
+#circle-txt{
+    background-color: #FAF0D7;
+}
+.round{
+    background-color: #e01818;
+    border-radius: 50%;
+    width: 700px;
+    height: 700px;
+    margin-left: 25%;
+}
+.features{
+    position: relative;
+    top: 5%;
+}
+.plate-img:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+#gallery{
+    background-color:#FAF0D7;
+    height: 950px;
+}
+#connect{
+    background-color:#FAF0D7 ;
+}
+.mail{
+    position: relative;
+    top: 42%;
+    right: 15%;
+}
+.contact:hover{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.icons{
+    position: relative;
+    left: 55%;
+    margin-top: -27%;
+}
+#footer{
+    background-color: #FAF0D7;
+}
+span{
+    color: #e61b1b;
+}
+.nav-button:hover{
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+.nav-link:hover{
+     color: #e9bf29;
+}
+.order-button:hover{
+    background-color: #e9bf29;
+}
+.seller-card:hover{
+   height: 75%;
+   background-color: #F2EE9D;
+   transform: scale(1.2);
+   transition: 1s;
+   color: #322653;
+   cursor: pointer;
+}
+.card-button:hover{
+    background-color: #FFFAD7;
+}
+.deal-card:hover{
+    box-shadow: 8px 5px 9px rgba(0, 0, 0, 0.3);
+}
+.gallery-img:hover{
+    transition: 1s;
+    transform: scale(1.2);
+}
+#questions:hover{
+    cursor: pointer;
+}
+.email-btn:hover{
+    background-color: #e9bf29;
+}
+.message-button:hover{
+    background-color: #e9bf29;
+}
+.footer-icon:hover{
+    transition: 1s;
+    transform: scale(1.2);
+    cursor: pointer;
+}
